@@ -6,7 +6,7 @@
 <!-- Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Hi!+I'm+Sien;%F0%9F%8E%A9;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Hi!+I'm+Sien;;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </h1>
 
